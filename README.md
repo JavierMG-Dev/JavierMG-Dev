@@ -102,7 +102,7 @@ Currently part of the **Core team** responsible for shared components across all
 ## Projects · coming soon
 
 | Project | Description | Stack | Status |
-|---|---|---|
+|---|---|---|---|
 | 🏦 **FinTrack** | Personal finance app — payments, FX rates, offline-first | Compose · MVI · Room · Hilt | In Progress |
 | 🧱 **ModularArch** | Multi-module Android architecture template | Clean Arch · Gradle Version Catalogs | Done! ✅  |
 | 🎨 **ComposeAnimations** | Reusable Compose UI components library | Compose · Canvas · Material3 | TODO |
